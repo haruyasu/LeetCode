@@ -18,6 +18,6 @@ class Solution:
             result.append(i)
 
         return result
-
+ 
 li = ["eat", "tea", "tan", "ate", "nat", "bat"]
 print(Solution().groupAnagrams(li))
